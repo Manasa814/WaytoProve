@@ -1,0 +1,34 @@
+.organiser-content{
+    padding: 80px;
+    border-radius: 10px;
+    margin: auto;
+    padding-bottom: 35px;
+}
+.organiser-register-main{
+    padding: 25px;
+    margin: auto;
+    width: 80vw;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    
+}
+
+/* label {
+    vertical-align: top;
+} */
+
+.organiser-register-content{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:80vw; 
+    padding: 25px;
+    border-radius: 10px; 
+    margin:auto;
+}
+
+.organiser-heading{
+    color:black;   
+    text-align: center;
+    justify-content: center;
+}
+
+

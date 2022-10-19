@@ -1,0 +1,77 @@
+.addEvent-content{
+    width: 80vw;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+    border-radius: 20px; 
+    margin:auto;
+    font-weight: bold;
+    margin-left:50px;
+    background: white;
+
+}
+.addevent-main{
+
+    padding-top: 50px;
+    width: 100vw;
+    height: 100vh;
+   
+}
+
+.gender-rest{
+    padding-left: 25px;
+}
+
+.age-rest{
+    padding-left: 25px;
+    font-weight: bold;
+}
+.gender-rest{
+    font-weight: bold;
+}
+
+h6{
+    font-weight:lighter;
+    font-size:small;
+
+}
+
+.reset-addevent{
+    flex-grow: 1;
+    width:15vw;
+    margin-left: 300px;
+    border-radius: 5px;
+    background-color: #9c0606;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    border: 0 solid transparent;
+    padding-left: 30px;
+    padding-right: 30px;
+} 
+
+.register-addevent{
+    flex-grow: 1;
+    width:15vw;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    align-content: center;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left:20px;
+    border: 0 solid transparent;
+    align-items: center;
+   
+}
+
+.addEvent-heading{
+    color:black;   
+    text-align: center;
+    justify-content: center;
+}
+.select-gender{
+    padding-left:40px;
+}

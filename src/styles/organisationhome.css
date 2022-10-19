@@ -1,0 +1,13 @@
+.home-content{
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-items: center;
+    width: 100vw;
+    height : 100vh;
+}
+.nocontent-img{
+    margin-top: 100px;
+    padding: 70px,0;
+    width: 200px;
+    height : 200px;
+}

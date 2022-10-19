@@ -1,0 +1,73 @@
+.cover{
+    height: 150px;
+    width: 100vmax;
+    background-image: url('../res/bg1.jpg');
+    background-size: cover;    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+   
+}
+#profilepic{
+    margin: 50px;
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+    align-self: center;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+}
+.bar1{
+    margin-left: 50px;
+    width: 80%;
+    margin-top: 50px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    height: fit-content;
+    display: flex;
+}
+.bar2{
+    margin-left: 50px;
+    width: 80%;
+    margin-top: 50px;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    height: fit-content;
+    display: flex;
+}
+.bar3-span{
+    width: 50vw;
+    display:inline-flex;
+    justify-content: center;
+}
+.bar2-span{
+    width: 50vw;
+    display: flex;
+    border-right: 4px solid #9c0606;
+    justify-content: center;
+}
+.bar1-span{
+    width:100%;
+    display: block;
+}
+p{
+    font-weight: bold;
+}
+
+#saved-events{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.profile-span{
+    padding: 35px;
+    padding-top: 100px;
+    margin-left: 30px;;
+    width: 80vw;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: white; 
+
+}

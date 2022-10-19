@@ -1,0 +1,24 @@
+.manageEvent-content{
+    width: 80vw;
+    height: fit-content;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 20px; 
+    margin:auto;
+    font-weight: bold;
+    margin-left:50px;
+    background: white;
+}
+
+.manageEvent-content1{
+    width: 80vw;
+    height: fit-content;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 20px; 
+    margin:auto;
+    font-weight: bold;
+    margin-left:50px;
+    background: white;
+    display:flex;
+}

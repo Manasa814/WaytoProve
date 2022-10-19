@@ -1,0 +1,11 @@
+
+.socialhandes{
+    display: flex;
+    margin-bottom: 20px;
+}
+.images{
+    cursor: pointer;
+    width:30px;
+    height:30px;
+    margin-right: 5px;
+}

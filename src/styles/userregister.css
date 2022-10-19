@@ -1,0 +1,95 @@
+.reset-btn{
+    flex-grow: 1;
+    width:15vw;
+    margin-left: 300px;
+    border-radius: 5px;
+    background-color: #9c0606;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    border: 0 solid transparent;
+    padding-left: 30px;
+    padding-right: 30px;
+} 
+
+.register-btn{
+    flex-grow: 1;
+    width:15vw;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    align-content: center;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left:20px;
+    border: 0 solid transparent;
+    align-items: center;
+   
+}
+
+.register-buttons{
+    display : flex;
+    width: 50%;
+
+    margin-top:20px;
+}
+
+.register-heading{
+    color:black;   
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.register-title-span{
+    display: flex;
+    width: 100vw;
+}
+.register-title{
+    margin-left: 50px;
+    display: flex;
+}
+
+.interest-checkbox{
+    margin-left: 80px;
+    
+}
+.user-register-content{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:80vw; 
+    padding: 25px;
+    border-radius: 10px; 
+    margin:auto;
+}
+
+Form{
+    padding-top:5px;    font-size: 20sp;
+    font-weight: bold;
+
+}
+
+#photo{
+margin: 10px;
+width: 150px;
+height: 150px;
+vertical-align: middle;
+align-self: center;
+border-radius: 50%;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+}
+.user-register-content{
+    padding: 25px;
+    margin: auto;
+    width: 80vw;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    
+}
+    
+
+
+
+
